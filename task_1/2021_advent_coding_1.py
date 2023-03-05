@@ -5,7 +5,7 @@ fileDir = os.path.dirname(os.path.realpath('__file__'))
 
 # For accessing the file in the same folder
 filename = "2021_advent_1.input.txt"
-# filename = "2021_advent_1.input.sample.txt"
+# filename = "2021_advent_3.input.sample.txt"
 
 # filename = "2022_advent_10.input.sample.txt"
 # filename = "2022_advent_10.input.sample2.txt"
