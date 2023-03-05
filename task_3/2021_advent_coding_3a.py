@@ -52,3 +52,5 @@ print(epsilon_rate_value)
 # calculate power consumption
 power_consumption = gama_rate_value*epsilon_rate_value
 print('consumption rate =', power_consumption)
+
+
